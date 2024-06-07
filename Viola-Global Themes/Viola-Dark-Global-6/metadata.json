@@ -1,0 +1,32 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Viola-Dark-Global-6",
+        "Description": "Viola-Dark Global Theme by l4k1",
+        "Id": "Viola-Dark-Global-6",
+        "Version": "1.0",
+        "License": "GPLv3",
+        "Website": "https://github.com/L4ki/Viola-Plasma-Themes"
+    },
+    "X-KPackage-Dependencies": [
+        "kns://window-decorations.knsrc/api.kde-look.org/2162550",
+        "kns://window-decorations.knsrc/api.kde-look.org/2162549",
+        "kns://colorschemes.knsrc/api.kde-look.org/2162536",
+        "kns://icons.knsrc/api.kde-look.org/2148992",
+        "kns://icons.knsrc/api.kde-look.org/2154036",
+        "kns://plasma-themes.knsrc/api.kde-look.org/2162541",
+        "kns://wallpaper.knsrc/api.kde-look.org/2162523",
+        "kns://sddmtheme.knsrc/api.kde-look.org/2162547"
+    ]
+}
