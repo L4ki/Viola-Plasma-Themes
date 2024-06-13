@@ -35,3 +35,21 @@ Screenshots:
 ![2](https://github.com/L4ki/Viola-Plasma-Themes/assets/45247573/e1b75efa-35b8-4ba7-b691-c90ef5f636f5)
 
 ![4](https://github.com/L4ki/Viola-Plasma-Themes/assets/45247573/6bece979-3593-4435-87d9-a267ae452267)
+
+Changelog:
+----------
+
+GTK-Theme
+----------
+
+Update: main.rc
+
+Aurorae Themes
+---------------
+
+Update: metadata.desktop
+
+Plasme Theme
+------------
+
+Update Widget: margins-highlight.svg
