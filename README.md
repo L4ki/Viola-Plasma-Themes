@@ -54,7 +54,7 @@ Update: metadata.desktop
 Plasme Theme
 ------------
 
-Update Widget: bar_meter_horizontal.svg
+Update widget: bar_meter_horizontal.svg
 
 Kvantum Theme
 -------------
