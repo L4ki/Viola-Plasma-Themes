@@ -38,13 +38,13 @@ Screenshots:
 
 
 
-Changelogs: 20.06.2024.
+Changelogs: 27.06.2024.
 -----------------------
 
 GTK-Theme
 ----------
 
-Update: apps.rc
+Update: gtkrc
 
 Aurorae Themes
 ---------------
@@ -54,4 +54,14 @@ Update: metadata.desktop
 Plasme Theme
 ------------
 
-Update Widget: background.svg
+Update Widget: bar_meter_horizontal.svg
+
+Kvantum Theme
+-------------
+
+Update: Viola-Dark-Kvantum.rc
+
+Viola SDDM
+----------
+
+Update: metadata.desktop
