@@ -38,13 +38,13 @@ Screenshots:
 
 
 
-Changelogs: 04.07.2024.
+Changelogs: 11.07.2024.
 -----------------------
 
 GTK-Theme
 ----------
 
-Update: styles
+Update: hacks.rc
 
 Aurorae Themes
 ---------------
@@ -54,6 +54,6 @@ Update: metadata.desktop
 Plasme Theme
 ------------
 
-Update widget: bar_meter_vertical.svg
+Update widget: configuration-icons.svg
 
 
