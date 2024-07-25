@@ -38,13 +38,13 @@ Screenshots:
 
 
 
-Changelogs: 18.07.2024.
+Changelogs: 25.07.2024.
 -----------------------
 
 GTK-Theme
 ----------
 
-Update: gtk-4.0
+Update: gtk-3.0
 
 Aurorae Themes
 ---------------
@@ -54,6 +54,6 @@ Update: metadata.desktop
 Plasme Theme
 ------------
 
-Update widget: listitem.svg
+Update widget: tabbar.svg
 
 
