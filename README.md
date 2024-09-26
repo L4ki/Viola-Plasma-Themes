@@ -38,13 +38,13 @@ Screenshots:
 
 
 
-Changelogs: 19.09.2024.
+Changelogs: 26.09.2024.
 -----------------------
 
 GTK-Theme
 ----------
 
-Update: gtk-3.0
+Update: hacks-dark.rc
 
 Aurorae Themes
 ---------------
@@ -54,7 +54,7 @@ Update: metadata.desktop
 Plasme Theme
 ------------
 
-Update widget: bar_meter_vertical.svg
+Update widget: slider.svg
 
 SDDM Theme For Plasma 5
 -----------------------
