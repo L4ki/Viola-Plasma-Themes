@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="11.000104"
-   height="10.999998"
+   width="25.000101"
+   height="11.000002"
    version="1.1"
    id="svg2"
    sodipodi:docname="bar_meter_horizontal.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <style
-     id="style928"></style>
+     id="style928" />
   <metadata
      id="metadata103">
     <rdf:RDF>
@@ -24,7 +24,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,8 +38,8 @@
      inkscape:deskcolor="#201933"
      showgrid="true"
      inkscape:zoom="19.506047"
-     inkscape:cx="15.070994"
-     inkscape:cy="9.305741"
+     inkscape:cx="15.072249"
+     inkscape:cy="9.3304399"
      inkscape:window-width="1920"
      inkscape:window-height="996"
      inkscape:window-x="0"
@@ -51,8 +50,8 @@
     <inkscape:grid
        id="grid1"
        units="px"
-       originx="-13.56356"
-       originy="-6.9999958"
+       originx="-13.563559"
+       originy="-6.9999915"
        spacingx="1"
        spacingy="1"
        empcolor="#0099e5"
@@ -264,33 +263,33 @@
      style="opacity:0.01;fill:#008080;stroke-width:0.75"
      width="2.9999998"
      height="3"
-     x="3.4364405"
-     y="-14.999997" />
+     x="3.4364407"
+     y="-14.999993" />
   <rect
      id="hint-bar-size"
      style="opacity:0.01;fill:#008080"
      width="5.9999995"
      height="6"
-     x="-3.5635595"
-     y="-17.999996" />
+     x="-3.5635593"
+     y="-17.999992" />
   <rect
      id="hint-stretch-borders"
      style="opacity:0.01;fill:#008080"
      width="2.9999998"
      height="3"
      x="8.4364405"
-     y="-14.999997" />
+     y="-14.999993" />
   <rect
      id="hint-bar-stretch"
      style="opacity:0.01;fill:#008080"
      width="2.9999998"
      height="3"
      x="12.43644"
-     y="-14.999997" />
+     y="-14.999993" />
   <g
      id="bar-active-center"
      style="fill-rule:nonzero"
-     transform="translate(7.0000004,-21.999997)">
+     transform="translate(7.0000006,-21.999993)">
     <rect
        style="color:#5c5c88;display:inline;overflow:visible;visibility:visible;fill:#6d55aa;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate;stop-color:#5c5c88"
        id="selected+hover-center-8"
@@ -304,7 +303,7 @@
   <g
      id="bar-active-top"
      style="fill-rule:nonzero"
-     transform="translate(7.0000004,-21.999997)">
+     transform="translate(7.0000006,-21.999993)">
     <rect
        y="22.500002"
        x="11.000099"
@@ -324,7 +323,7 @@
   <g
      id="bar-active-left"
      style="fill-rule:nonzero"
-     transform="translate(7.0000004,-21.999997)">
+     transform="translate(7.0000006,-21.999993)">
     <rect
        transform="rotate(-90)"
        y="7.5001092"
@@ -345,7 +344,7 @@
   <g
      id="bar-active-bottom"
      style="fill-rule:nonzero"
-     transform="translate(7.0000004,-21.999997)">
+     transform="translate(7.0000006,-21.999993)">
     <rect
        transform="scale(-1)"
        y="-32.500004"
@@ -366,7 +365,7 @@
   <g
      id="bar-active-right"
      style="fill-rule:nonzero"
-     transform="translate(7.0000004,-21.999997)">
+     transform="translate(7.0000006,-21.999993)">
     <rect
        transform="rotate(90)"
        y="-17.500124"
@@ -387,7 +386,7 @@
   <g
      id="bar-active-topleft"
      style="fill-rule:nonzero"
-     transform="translate(7.0000004,-21.999997)">
+     transform="translate(7.0000006,-21.999993)">
     <path
        style="color:#5c5c88;fill:#0d0d0d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stop-color:#5c5c88"
        d="m 10,22 v 0.5 c -1.3290988,0 -2.4999958,1.1719 -2.4999958,2.5 h -0.5 c 0,-1.66912 1.331868,-3.00275 2.9999958,-3 z"
@@ -405,7 +404,7 @@
   <g
      id="bar-active-topright"
      style="fill-rule:nonzero"
-     transform="translate(7.0000004,-21.999997)">
+     transform="translate(7.0000006,-21.999993)">
     <path
        style="color:#5c5c88;fill:#0d0d0d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stop-color:#5c5c88"
        d="m 17.999992,25 h -0.5 c 0,-1.3291 -1.1719,-2.5 -2.499997,-2.5 V 22 c 1.669121,0 3.002747,1.33187 2.999997,3 z"
@@ -423,7 +422,7 @@
   <g
      id="bar-active-bottomright"
      style="fill-rule:nonzero"
-     transform="translate(7.0000004,-21.999997)">
+     transform="translate(7.0000006,-21.999993)">
     <g
        id="g27"
        style="fill-rule:nonzero">
@@ -445,7 +444,7 @@
   <g
      id="bar-active-bottomleft"
      style="fill-rule:nonzero"
-     transform="translate(7.0000004,-21.999997)">
+     transform="translate(7.0000006,-21.999993)">
     <path
        style="color:#5c5c88;fill:#0d0d0d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stop-color:#5c5c88"
        d="m 7.0000042,29.99999 h 0.5 c 0,1.3291 1.1719,2.5 2.4999958,2.5 v 0.5 c -1.6691198,0 -3.0027458,-1.33188 -2.9999958,-3 z"
