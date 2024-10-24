@@ -38,13 +38,13 @@ Screenshots:
 
 
 
-Changelogs: 17.10.2024.
+Changelogs: 24.10.2024.
 -----------------------
 
 GTK-Theme
 ----------
 
-Update: gtkrc
+Update: styles
 
 Aurorae Themes
 ---------------
@@ -54,7 +54,7 @@ Update: metadata.desktop
 Plasme Theme
 ------------
 
-Update widget: action-overlays.svg
+Update widget: line.svg
 
 SDDM Theme For Plasma 5
 -----------------------
