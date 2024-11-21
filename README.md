@@ -38,13 +38,13 @@ Screenshots:
 
 
 
-Changelogs: 14.11.2024.
+Changelogs: 21.11.2024.
 -----------------------
 
 GTK-Theme
 ----------
 
-Update: gtk-3.0
+Update: hacks-dark.rc
 
 Aurorae Themes
 ---------------
@@ -54,7 +54,7 @@ Update: metadata.desktop
 Plasme Theme
 ------------
 
-Update widget: arrows.svg
+Update widget: checkmarks.svg
 
 SDDM Theme For Plasma 5
 -----------------------
