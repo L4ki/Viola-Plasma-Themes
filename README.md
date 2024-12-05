@@ -38,13 +38,13 @@ Screenshots:
 
 
 
-Changelogs: 28.11.2024.
+Changelogs: 05.12.2024.
 -----------------------
 
 GTK-Theme
 ----------
 
-Update: apps.rc
+Update: main.rc
 
 Aurorae Themes
 ---------------
@@ -54,7 +54,7 @@ Update: metadata.desktop
 Plasme Theme
 ------------
 
-Update widget: busywidget.svg
+Update widget: viewitem.svg
 
 SDDM Theme For Plasma 5
 -----------------------
