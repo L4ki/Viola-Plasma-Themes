@@ -38,26 +38,15 @@ Screenshots:
 
 
 
-Changelogs: 26.12.2024.
+Changelogs: 02.01.2025.
 -----------------------
 
 GTK-Theme
 ----------
 
-Update: hacks.rc
-
-Aurorae Themes
----------------
-
-Update: metadata.desktop
+Update: gtk-4.0
 
 Plasme Theme
 ------------
 
 Update widget: containment-controls.svg
-
-SDDM Theme For Plasma 5
------------------------
-
-Update: metadata.desktop
-
