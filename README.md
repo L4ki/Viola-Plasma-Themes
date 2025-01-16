@@ -38,13 +38,13 @@ Screenshots:
 
 
 
-Changelogs: 09.01.2025.
+Changelogs: 16.01.2025.
 -----------------------
 
 GTK-Theme
 ----------
 
-Update: gtk-3.0
+Update: hacks.rc
 
 Plasme Theme
 ------------
