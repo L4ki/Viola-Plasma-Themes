@@ -38,15 +38,15 @@ Screenshots:
 
 
 
-Changelogs: 23.01.2025.
+Changelogs: 30.01.2025.
 -----------------------
 
 GTK-Theme
 ----------
 
-Update: apps.rc
+Update: main.rc
 
 Plasme Theme
 ------------
 
-Update widget: containment-controls.svg
+Update: metadata.desktop
