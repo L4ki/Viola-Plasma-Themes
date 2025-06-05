@@ -38,15 +38,15 @@ Screenshots:
 
 
 
-Changelogs: 29.05.2025.
+Changelogs: 05.06.2025.
 -----------------------
 
 GTK-Theme
 ----------
 
-Update: gtk-4.0
+Update: gtk-3.0
 
 Plasme Theme
 ------------
 
-Update: metadata.desktop
+Update widget: menubaritem.svg
