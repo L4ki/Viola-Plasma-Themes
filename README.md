@@ -38,15 +38,15 @@ Screenshots:
 
 
 
-Changelogs: 05.06.2025.
+Changelogs: 012.06.2025.
 -----------------------
 
 GTK-Theme
 ----------
 
-Update: gtk-3.0
+Update: hacks-dark.rc
 
 Plasme Theme
 ------------
 
-Update widget: menubaritem.svg
+Update widget: metadata.desktop
