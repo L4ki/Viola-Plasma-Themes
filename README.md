@@ -38,7 +38,7 @@ Screenshots:
 
 
 
-Changelogs: 012.06.2025.
+Changelogs: 12.06.2025.
 -----------------------
 
 GTK-Theme
