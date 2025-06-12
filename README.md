@@ -49,4 +49,4 @@ Update: hacks-dark.rc
 Plasme Theme
 ------------
 
-Update widget: metadata.desktop
+Update: metadata.desktop
