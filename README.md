@@ -36,13 +36,13 @@ Screenshots:
 
 ![4](https://github.com/L4ki/Viola-Plasma-Themes/assets/45247573/6bece979-3593-4435-87d9-a267ae452267)
 
-Changelogs: 06.11.2025.
+Changelogs: 13.11.2025.
 -----------------------
 
 GTK-Theme
 ----------
 
-Update: styles
+Update: gtk-4.0
 
 Plasme Theme
 ------------
